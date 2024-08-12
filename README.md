@@ -9,7 +9,7 @@ This project focuses on analyzing the cultural diversity of India using data fro
 - **Methodology**: The project utilized Simpson’s and Shannon’s diversity indices to quantify diversity, followed by exploratory data analysis and visualization techniques.
 - **Findings**: States like Manipur, Nagaland, and Jammu & Kashmir emerged as highly diverse across various indices, highlighting their unique cultural compositions.
 
-For detailed analysis, methodology, and results, please refer to the [full report](#).
+For detailed analysis, methodology, and results, please refer to the [full report](https://github.com/yobahBertrandYonkou/say/blob/main/Final%20Report%20PDF.pdf).
 
 ## Table of Contents
 
@@ -35,5 +35,5 @@ For detailed analysis, methodology, and results, please refer to the [full repor
 9. [References](#references)
 
 ## Note
-This README provides an overview of the project. For an in-depth analysis, detailed methodologies, and comprehensive results, please refer to the [full report](./Final Report PDF.pdf).
+This README provides an overview of the project. For an in-depth analysis, detailed methodologies, and comprehensive results, please refer to the [full report](https://github.com/yobahBertrandYonkou/say/blob/main/Final%20Report%20PDF.pdf).
 
