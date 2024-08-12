@@ -35,5 +35,5 @@ For detailed analysis, methodology, and results, please refer to the [full repor
 9. [References](#references)
 
 ## Note
-This README provides an overview of the project. For an in-depth analysis, detailed methodologies, and comprehensive results, please refer to the [full report](#).
+This README provides an overview of the project. For an in-depth analysis, detailed methodologies, and comprehensive results, please refer to the [full report](./Final Report PDF.pdf).
 
